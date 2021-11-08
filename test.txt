@@ -4,5 +4,5 @@ header
 
 november
 
-update text. 
+
 update text 2. end
